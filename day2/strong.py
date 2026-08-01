@@ -12,7 +12,6 @@ while n > 0:
         fact *= i
 
     s += fact
-
     n //= 10
 
 if o == s:
