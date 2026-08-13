@@ -8,6 +8,8 @@ My journey of learning Python from the basics to advanced concepts.
 
 * Variables and basic syntax
 * `while` loops
+* `for` loops
+* `if` conditions
 * Lists
 
   * Indexing
@@ -15,8 +17,6 @@ My journey of learning Python from the basics to advanced concepts.
   * Slicing
   * Step slicing
   * Reverse slicing
-  * `for` loops
-  * `if` conditions with lists
   * Finding sum using loops
   * Finding the largest number
   * `append()`
@@ -36,15 +36,39 @@ My journey of learning Python from the basics to advanced concepts.
   * Adding and removing elements
   * Membership checking
   * `len()`
+  * `add()`
+  * `update()`
+  * `remove()`
+  * `discard()`
+  * `clear()`
+  * Union `|`
+  * Intersection `&`
+  * Difference `-`
+  * Symmetric difference `^`
+* Dictionaries
+
+  * Creating dictionaries
+  * Key-value pairs
+  * Accessing values
+  * Adding new keys
+  * Updating values
+  * `pop()`
+  * `del`
+  * `keys()`
+  * `values()`
+  * `items()`
+  * Dictionary loops
+  * Membership checking
 
 ### Currently Learning
 
-* Sets
-* Set operations
+* Dictionaries
+
+  * `get()`
+  * Nested dictionaries
 
 ### Upcoming
 
-* Dictionaries
 * Functions
 * Strings in depth
 * Exception handling
@@ -53,9 +77,6 @@ My journey of learning Python from the basics to advanced concepts.
 * Object-Oriented Programming
 * Advanced Python
 * Projects
-
-
-```
 
 ## Goal
 
