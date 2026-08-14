@@ -7,3 +7,4 @@ student = {
     }
 }
 print(student["marks"]["Python"])
+print(student["marks"]["SQL"])
