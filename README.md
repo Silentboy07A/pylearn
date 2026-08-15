@@ -10,8 +10,8 @@ My journey of learning Python from the basics to advanced concepts.
 * `while` loops
 * `for` loops
 * `if` conditions
-* Lists
 
+* Lists
   * Indexing
   * Negative indexing
   * Slicing
@@ -23,14 +23,14 @@ My journey of learning Python from the basics to advanced concepts.
   * `pop()`
   * `sort()`
   * `reverse()`
-* Tuples
 
+* Tuples
   * Creating tuples
   * Indexing
   * Slicing
   * Tuple operations
-* Sets
 
+* Sets
   * Creating sets
   * Unique values
   * Adding and removing elements
@@ -45,8 +45,8 @@ My journey of learning Python from the basics to advanced concepts.
   * Intersection `&`
   * Difference `-`
   * Symmetric difference `^`
-* Dictionaries
 
+* Dictionaries
   * Creating dictionaries
   * Key-value pairs
   * Accessing values
@@ -59,23 +59,52 @@ My journey of learning Python from the basics to advanced concepts.
   * `items()`
   * Dictionary loops
   * Membership checking
-
-### Currently Learning
-
-* Dictionaries
-
   * `get()`
   * Nested dictionaries
 
+* Functions
+  * Creating functions
+  * Parameters and arguments
+  * `return`
+  * Multiple return values
+  * Default parameters
+  * Keyword arguments
+  * Positional and keyword arguments
+  * `*args`
+  * `**kwargs`
+  * Local scope
+  * Global scope
+  * `global`
+  * Basic LEGB scope
+
+### Currently Learning
+
+* Strings
+  * Creating strings
+  * Indexing
+  * Negative indexing
+  * Slicing
+  * Reverse slicing
+  * String immutability
+  * `lower()`
+  * `upper()`
+
 ### Upcoming
 
-* Functions
-* Strings in depth
+* String methods
+  * `strip()`
+  * `replace()`
+  * `split()`
+  * `join()`
+
 * Exception handling
 * File handling
 * Modules and packages
+* Comprehensions
 * Object-Oriented Programming
-* Advanced Python
+* Iterators and generators
+* Useful built-in functions
+* Python libraries
 * Projects
 
 ## Goal
