@@ -77,8 +77,6 @@ My journey of learning Python from the basics to advanced concepts.
   * `global`
   * Basic LEGB scope
 
-### Currently Learning
-
 * Strings
   * Creating strings
   * Indexing
@@ -88,16 +86,34 @@ My journey of learning Python from the basics to advanced concepts.
   * String immutability
   * `lower()`
   * `upper()`
-
-### Upcoming
-
-* String methods
   * `strip()`
+  * `lstrip()`
+  * `rstrip()`
   * `replace()`
   * `split()`
   * `join()`
+  * `find()`
+  * `count()`
+  * `startswith()`
+  * `endswith()`
+  * `isdigit()`
+  * `isalpha()`
+  * `isalnum()`
+  * `isupper()`
+  * `islower()`
+  * `capitalize()`
+  * `title()`
+
+### Currently Learning
 
 * Exception handling
+  * `try`
+  * `except`
+  * `else`
+  * `finally`
+
+### Upcoming
+
 * File handling
 * Modules and packages
 * Comprehensions
