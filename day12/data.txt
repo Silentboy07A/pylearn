@@ -1,2 +1,3 @@
-Hello this is the first write
- SQL is a database
+Python is a interpreted language
+Java is used in most bank applications
+SQL is also known as RDBMS
