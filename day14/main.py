@@ -1,3 +1,4 @@
-from tools.maths import add,sub
-print(add(12,3))
-print(sub(78,12))
+import tools.maths as num
+n=int(input("Enter the number"))
+print(num.double(n))
+print(num.triple(n))
