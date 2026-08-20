@@ -1,14 +1,12 @@
-# PyLearn
-
-My journey of learning Python from the basics to advanced concepts.
-
-## Progress
 
 ### Completed
 
 * Variables and basic syntax
+
 * `while` loops
+
 * `for` loops
+
 * `if` conditions
 
 * Lists
@@ -104,37 +102,57 @@ My journey of learning Python from the basics to advanced concepts.
   * `capitalize()`
   * `title()`
 
-### Currently Learning
-
 * Exception handling
   * `try`
   * `except`
   * `else`
   * `finally`
+  * `raise`
+
+* File handling
+  * `open()`
+  * `with open()`
+  * `read()`
+  * `readline()`
+  * `readlines()`
+  * Reading files with loops
+  * `write()`
+  * `writelines()`
+  * `r` mode
+  * `w` mode
+  * `a` mode
+  * `os.path.exists()`
+  * `os.remove()`
+
+* Modules and packages
+  * Creating modules
+  * `import`
+  * `from ... import`
+  * Module aliases with `as`
+  * Creating packages
+  * Importing from packages
+  * Built-in `math` module
+  * Built-in `random` module
+  * Built-in `datetime` module
+
+* Comprehensions
+  * List comprehensions
+  * Transforming values
+  * Filtering values
+  * Transform + filter
+  * Multiple conditions
+
+### Currently Learning
+
+* Dictionary comprehensions
+  * Basic dictionary comprehensions
+  * Key-value generation
 
 ### Upcoming
 
-* File handling
-* Modules and packages
-* Comprehensions
-* Object-Oriented Programming
-* Iterators and generators
+* Advanced comprehensions
 * Useful built-in functions
+* Iterators and generators
+* Object-Oriented Programming
 * Python libraries
 * Projects
-
-## Goal
-
-Build a strong Python foundation through consistent practice, small programs, and progressively larger projects.
-
-## Learning Approach
-
-Each topic is learned through:
-
-1. Understanding the concept
-2. Writing small examples
-3. Solving practice problems
-4. Building small programs
-5. Revising previously learned concepts
-
-This repository tracks my progress and serves as a reference for my Python learning journey.
